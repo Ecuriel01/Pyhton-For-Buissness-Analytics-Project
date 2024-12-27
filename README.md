@@ -1,1 +1,1 @@
-# Pyhton-For-Buissness-Analytics-Project
+# Python-For-Business-Analytics-Project
